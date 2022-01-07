@@ -15,8 +15,8 @@ x = np.array([i[0] for i in points_list])
 y = np.array([i[1] for i in points_list])
 
 # Plotting the figure
-fig = plt.figure()
-fig.figsize = (4, 4)
+fig = plt.figure(figsize=(6, 5))
+
 ax = fig.add_subplot(111)
 
 tangent, = ax.plot([], [], '-')
