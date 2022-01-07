@@ -28,6 +28,7 @@ ax.set_ylim(np.min(y), np.max(y))
 
 ax.set_xlabel(xlabel='Value of x')
 ax.set_ylabel(ylabel='y= f(x), f =x^3')
+fig.figsize = (4, 4)
 plt.title('Derivative of function f(x) at a point on the curve y=x^3')
 
 
