@@ -1,5 +1,5 @@
 # math
-Math related python scripts
+Python scripts to visualize simple Math stuff
 
 ### Derivatives
 
